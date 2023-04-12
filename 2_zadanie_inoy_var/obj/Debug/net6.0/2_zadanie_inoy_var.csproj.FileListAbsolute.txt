@@ -1,0 +1,15 @@
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 2 семинара C#\2_zadanie_inoy_var\bin\Debug\net6.0\2_zadanie_inoy_var.exe
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 2 семинара C#\2_zadanie_inoy_var\bin\Debug\net6.0\2_zadanie_inoy_var.deps.json
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 2 семинара C#\2_zadanie_inoy_var\bin\Debug\net6.0\2_zadanie_inoy_var.runtimeconfig.json
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 2 семинара C#\2_zadanie_inoy_var\bin\Debug\net6.0\2_zadanie_inoy_var.dll
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 2 семинара C#\2_zadanie_inoy_var\bin\Debug\net6.0\2_zadanie_inoy_var.pdb
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 2 семинара C#\2_zadanie_inoy_var\obj\Debug\net6.0\2_zadanie_inoy_var.csproj.AssemblyReference.cache
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 2 семинара C#\2_zadanie_inoy_var\obj\Debug\net6.0\2_zadanie_inoy_var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 2 семинара C#\2_zadanie_inoy_var\obj\Debug\net6.0\2_zadanie_inoy_var.AssemblyInfoInputs.cache
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 2 семинара C#\2_zadanie_inoy_var\obj\Debug\net6.0\2_zadanie_inoy_var.AssemblyInfo.cs
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 2 семинара C#\2_zadanie_inoy_var\obj\Debug\net6.0\2_zadanie_inoy_var.csproj.CoreCompileInputs.cache
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 2 семинара C#\2_zadanie_inoy_var\obj\Debug\net6.0\2_zadanie_inoy_var.dll
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 2 семинара C#\2_zadanie_inoy_var\obj\Debug\net6.0\refint\2_zadanie_inoy_var.dll
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 2 семинара C#\2_zadanie_inoy_var\obj\Debug\net6.0\2_zadanie_inoy_var.pdb
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 2 семинара C#\2_zadanie_inoy_var\obj\Debug\net6.0\2_zadanie_inoy_var.genruntimeconfig.cache
+C:\Users\PC Programmer\Desktop\Geek Brains\Семинары\Специальности\Домашнее задание 2 семинара C#\2_zadanie_inoy_var\obj\Debug\net6.0\ref\2_zadanie_inoy_var.dll
